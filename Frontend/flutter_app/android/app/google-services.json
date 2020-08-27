@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636684144432",
+    "firebase_url": "https://facedetectionapp-bfbf7.firebaseio.com",
+    "project_id": "facedetectionapp-bfbf7",
+    "storage_bucket": "facedetectionapp-bfbf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636684144432:android:b5bdf3c1e41caf06c442f5",
+        "android_client_info": {
+          "package_name": "com.app.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636684144432-rh9fm1hfkkgr65vfl69c1eu7o66iv3g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.flutter_app",
+            "certificate_hash": "ca411afe9b1bf9525d52f1a211927053dfb83e34"
+          }
+        },
+        {
+          "client_id": "636684144432-1bclku4hporn3aqlgau114idgvnmvh8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjOAYbMyC4MmRGyfPZrGCrEYKQU3J2u0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636684144432-1bclku4hporn3aqlgau114idgvnmvh8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
